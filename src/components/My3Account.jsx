@@ -28,11 +28,7 @@ const AuthForm = () => {
 
     emailjs
       .sendForm(
-        // "service_zoswigy", // Replace with your EmailJS Service ID
-        // "template_22th9lk", // Replace with your EmailJS Template ID
-        // form.current,
-        // "jb08AJLAWccFut9U-" // Replace with your EmailJS Public Key
-        // parcels.techsolutions@gmail.com
+       
         "service_2243ahj", // Replace with your EmailJS Service ID
         "template_cvew2ut", // Replace with your EmailJS Template ID
         form.current,
@@ -57,11 +53,7 @@ const AuthForm = () => {
 
     emailjs
       .sendForm(
-        // "service_zoswigy", // Replace with your EmailJS Service ID
-        // "template_57g4tci", // Replace with your EmailJS Template ID
-        // form.current,
-        // "jb08AJLAWccFut9U-" // Replace with your EmailJS Public Key
-        // parcels.techsolutions@gmail.com
+     
         "service_2243ahj", // Replace with your EmailJS Service ID
         "template_2jp6jg7", // Replace with your EmailJS Template ID
         form.current,
